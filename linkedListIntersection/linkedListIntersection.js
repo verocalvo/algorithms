@@ -38,16 +38,14 @@ function Node (val) {
 
 
 function linkedListIntersection(list1, list2) {
-  // TODO: Implement this function!
-  let linked = [];
-  for (let i = 0; i < list1.length; i++) {
-    linked.push(Node(list1[i]));
-    if (list1 !== undefined) {
-      linked[i].next = list1[i + 1];
-    } else  {
-      linked[i].next = null;
-    }
-  }
-  // really bad headache, maybe later
+  // let linked = [];
+  // for (let i = 0; i < list1.length; i++) {
+  //   linked.push(Node(list1[i]));
+  //   if (list1 !== undefined) {
+  //     linked[i].next = list1[i + 1];
+  //   } else  {
+  //     linked[i].next = null;
+  //   }
+  // }
 }
 

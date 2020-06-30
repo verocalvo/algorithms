@@ -18,7 +18,7 @@
 */
 
 /*
- * Extra credit: Make the method work for arrays that contain objects and/or arrays as elements.
+ * Try to make the method work for arrays that contain objects and/or arrays as elements.
 */
 
 Array.prototype.isSubsetOf = function (arr) {

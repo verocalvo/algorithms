@@ -10,8 +10,6 @@
 *    ...etc...
 *   ]
 *
-* Extra credit:
-*   - Make your function return answers for any number of rounds.
 *
 * Example:
 * rockPaperScissors(5); // => ['RRRRR', 'RRRRP', 'RRRRS', etc...]
