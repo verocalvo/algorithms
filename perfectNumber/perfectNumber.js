@@ -56,3 +56,5 @@ const checkPerfectNumber = function(num) {
   }
   return false;
 };
+
+console.log(checkPerfectNumber(8127));
