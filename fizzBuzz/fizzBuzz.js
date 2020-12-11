@@ -47,3 +47,5 @@ var fizzBuzz = function(n) {
   }
   return result;
 };
+
+console.log(fizzBuzz(100));
